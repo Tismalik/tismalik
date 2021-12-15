@@ -1,5 +1,5 @@
-### Greetings 👋 I'm Malik and Welcome to my Pocket Dimension
-### Do follow me on LinkedIN using the link below
+<h1 Greetings 👋 I'm Malik and Welcome to my Pocket Dimension </h1>
+<h3> Do follow me on LinkedIN using the link below </h3>
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tismalik&theme=gruvbox&count_private=true" width="400" />
 
 <p align="center">
