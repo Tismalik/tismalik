@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings 👋 Welcome to my Pocket Dimension
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=tismalik&theme=gruvbox&count_private=true" width="400" />
 
