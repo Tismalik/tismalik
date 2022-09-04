@@ -2,7 +2,7 @@
 <h3 align="center">  🔭 I’m currently working on an R-Network project that involves describing Top 250 Football Transfers between 2000-2019</h3>
 <h3 align="left"> Do follow me on LinkedIN using the link below 👇 </h3>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=tismalik&theme=gruvbox&count_private=true"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=tismalik&theme=gruvbox&count_private=true" width="400" />
 
 <p align="center">
   <a href="https://www.linkedin.com/in/malik-ahmed-bd/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
