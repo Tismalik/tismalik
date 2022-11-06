@@ -10,7 +10,7 @@
 
 
 <p align="center">
-  <a href="https://www.credly.com/badges/4dc65e68-b4ab-4c0b-983f-9b6612f4c8a8/public_url"><img src="https://images.credly.com/size/110x110/images/5cc4fa32-c08f-43c5-ae31-3184e172ad34/CERT-Associate-Data-Analyst-600x600.png" /></a>
+  <a href="https://www.credly.com/badges/dd6aeb41-2705-4275-b7a6-527d121adeb9/public_url"><img src="https://images.credly.com/size/110x110/images/619f60f8-4f63-4772-910e-dc31c6f2f7e8/image.png" /></a>
   <a href="https://www.credly.com/badges/55e8a313-8c03-4c57-8d22-bc338f89e0f3/public_url"><img src="https://images.credly.com/size/110x110/images/4136ced8-75d5-4afb-8677-40b6236e2672/azure-ai-fundamentals-600x600.png" /></a>
 </p>
 <!--
